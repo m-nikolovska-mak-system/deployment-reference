@@ -1,6 +1,0 @@
-{
-  "mapping_name": "app-java-to-platform",
-  "destination": "application/config",
-  "preserve_structure": false,
-  "file_count": 1
-}
