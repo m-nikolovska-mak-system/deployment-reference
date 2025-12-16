@@ -1,0 +1,6 @@
+{
+  "mapping_name": "documentation",
+  "destination": "application/resources",
+  "preserve_structure": false,
+  "file_count": 2
+}
